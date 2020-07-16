@@ -1,0 +1,42 @@
+img{
+    max-width: 150px;
+    max-height: 150px;
+}
+body{
+    background-color: rgb(153, 104, 41);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+hr{
+    border-top: black;
+    border-top: 1px dashed;
+    border-bottom-left-radius: 1px;
+    border-bottom: black;
+    border-bottom: 1px dashed;
+}
+
+form{
+    width: 100px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    margin: 8px 0;
+}
+
+
+.title{
+    text-align: center;
+}
+
+.title2{
+    text-align: center;
+    
+
+.main{
+    background-color: white;
+    background-image: url(city2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.
+
+

@@ -1,0 +1,43 @@
+#title-section{
+    background-color: darkkhaki;
+    padding: 2px;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#news-section{
+    padding-top: 20px;
+
+}
+
+
+.image-news{
+    width: 20%;
+    border-radius: 20%;
+}
+
+h5{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+#world-news{
+    background-color: coral;
+    padding: 20px;
+}
+
+.picture-world{
+    padding-top: 20px;
+    border-radius: 40%;
+}
+
+
+#footer-section{
+    padding: 20px;
+}

@@ -1,0 +1,98 @@
+#title{
+    background-color: #6d575a;
+
+}
+
+h1{
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 1.5;
+}
+
+.container-fluid{
+    padding: 3% 15%;
+}
+
+.title-image{
+    width: 60%;
+    border-radius: 50%;
+
+}
+
+#features{
+    padding: 7% 15%;
+}
+
+.feature-box{
+    text-align: center;
+    padding: 5%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    color: #8f8f8f;
+}
+
+
+
+.icon{
+    color: #ef8172;
+    margin-bottom: 1rem;
+}
+
+.icon:hover{
+    color: #ff4c68;
+
+}
+
+
+#testimonials{
+    
+    text-align: center;
+    background-color: #924c42;
+
+}
+
+.testimonials-image{
+    width: 30%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+#press{
+    background-color: #8b6762;
+    text-align: center;
+    padding-bottom: 3%;
+}
+
+
+.press-logo{
+    margin: 20px 20px 50px;
+
+}
+
+
+.carousel-item{
+    padding: 7% 15%;
+}
+
+#pricing{
+    padding: 100px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.pricing-column{
+    padding: 3% 2%;
+}
+
+
+#footer{
+    background-color: #ff4c68;
+    padding-bottom: 3%;
+    padding-top: 3%;
+    padding-right: 3%;
+    padding-left: 3%;
+    text-align: center;
+    
+}

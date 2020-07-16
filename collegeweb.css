@@ -1,0 +1,42 @@
+body{
+    background-image: url("college.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+    
+    
+    
+}
+h1{
+    
+    text-align: center;
+
+}
+h2{
+    text-align: center;
+    
+}
+h4{
+    text-align: center;
+
+}
+#container2{
+    
+    text-align: right;
+    
+
+}
+
+form{
+    text-decoration-style: dotted;
+    text-align: right;
+    height: ;
+
+}
+.advert{
+    text-align: left;
+    
+}
+.advert2{
+    text-align: left;
+}
